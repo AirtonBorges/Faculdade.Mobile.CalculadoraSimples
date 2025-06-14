@@ -6,7 +6,8 @@
 
 senha para conseguir acessar o login:
 
-- cpf: "12345678900" senha "1234"
+- cpf: "12345678900"
+- senha "1234"
 
 ### TODO
 
