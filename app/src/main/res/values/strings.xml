@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Faculdade.Mobile.CalculadoraSimples</string>
+    <string name="resultado">Resultado</string>
+    <string name="segundo_n_mero">Segundo número</string>
+    <string name="primeiro_n_mero">Primeiro número</string>
+    <string name="cpf">CPF</string>
+    <string name="senha">Senha</string>
+    <string name="entrar">Entrar</string>
+    <string name="compartilhar">Compartilhar</string>
+</resources>

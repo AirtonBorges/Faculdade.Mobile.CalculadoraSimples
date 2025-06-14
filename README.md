@@ -10,4 +10,3 @@ cpf: "12345678900" senha "1234"
 
 - Estilizar melhor
 - Colocar login num user secrets
-# Faculdade.Mobile.CalculadoraSimples
